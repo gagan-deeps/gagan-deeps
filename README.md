@@ -1,4 +1,4 @@
-## 👋, I,m Gagandeep C
+## 👋, I'm Gagandeep C
 I'm a data analytics enthusiast learning to turn data into insights.<br>I work with Python, SQL, and Excel, and enjoy building dashboards and visualizations.<br>Always exploring and improving my skills! 🚀
 
 
